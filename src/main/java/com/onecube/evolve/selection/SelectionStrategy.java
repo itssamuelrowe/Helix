@@ -1,10 +1,7 @@
 package com.onecube.evolve.selection;
 
-import com.onecube.evolve.Individual;
-import com.onecube.evolve.Population;
-
-import java.util.function.Consumer;
-import java.util.function.UnaryOperator;
+import com.onecube.evolve.population.Individual;
+import com.onecube.evolve.population.Population;
 
 @FunctionalInterface
 public interface SelectionStrategy<T> extends TransformationOperator<Population<T>, Individual<T>> {

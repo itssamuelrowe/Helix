@@ -1,6 +1,6 @@
 package com.onecube.evolve;
 
-import com.onecube.evolve.Population;
+import com.onecube.evolve.population.Population;
 
 import java.util.function.Predicate;
 

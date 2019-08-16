@@ -1,6 +1,6 @@
 package com.onecube.evolve.mutation;
 
-import com.onecube.evolve.Individual;
+import com.onecube.evolve.population.Individual;
 
 import java.util.function.Function;
 

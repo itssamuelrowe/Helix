@@ -1,8 +1,10 @@
 package com.onecube.evolve;
 
-import com.onecube.evolve.*;
 import com.onecube.evolve.crossover.CrossoverStrategy;
 import com.onecube.evolve.mutation.MutationStrategy;
+import com.onecube.evolve.population.Individual;
+import com.onecube.evolve.population.Population;
+import com.onecube.evolve.population.SimplePopulation;
 import com.onecube.evolve.selection.SelectionStrategy;
 
 import java.util.Random;

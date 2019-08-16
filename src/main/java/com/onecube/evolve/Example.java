@@ -5,6 +5,8 @@ import com.onecube.evolve.chromosome.BinaryChromosomeFactory;
 import com.onecube.evolve.chromosome.ChromosomeFactory;
 import com.onecube.evolve.crossover.UniformCrossover;
 import com.onecube.evolve.mutation.BinaryFlipMutation;
+import com.onecube.evolve.population.Individual;
+import com.onecube.evolve.population.Population;
 import com.onecube.evolve.population.PopulationBuilder;
 import com.onecube.evolve.selection.RouletteWheelSelection;
 

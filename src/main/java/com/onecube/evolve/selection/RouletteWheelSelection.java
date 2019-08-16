@@ -1,7 +1,7 @@
 package com.onecube.evolve.selection;
 
-import com.onecube.evolve.Individual;
-import com.onecube.evolve.Population;
+import com.onecube.evolve.population.Individual;
+import com.onecube.evolve.population.Population;
 
 public class RouletteWheelSelection<T> implements SelectionStrategy<T> {
 

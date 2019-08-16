@@ -1,5 +1,7 @@
 package com.onecube.evolve;
 
+import com.onecube.evolve.population.Individual;
+
 import java.util.function.Function;
 
 /**

@@ -1,7 +1,7 @@
 package com.onecube.evolve.mutation;
 
-import com.onecube.evolve.Individual;
-import com.onecube.evolve.SimpleIndividual;
+import com.onecube.evolve.population.Individual;
+import com.onecube.evolve.population.SimpleIndividual;
 import com.onecube.evolve.chromosome.Chromosome;
 import com.onecube.evolve.chromosome.ChromosomeFactory;
 

@@ -1,9 +1,5 @@
 package com.onecube.evolve.population;
 
-import com.onecube.evolve.Individual;
-import com.onecube.evolve.Population;
-import com.onecube.evolve.SimpleIndividual;
-import com.onecube.evolve.SimplePopulation;
 import com.onecube.evolve.chromosome.BinaryChromosomeFactory;
 import com.onecube.evolve.chromosome.Chromosome;
 import com.onecube.evolve.chromosome.ChromosomeFactory;

@@ -1,6 +1,6 @@
-package com.onecube.evolve;
+package com.onecube.evolve.population;
 
-import java.util.List;
+import com.onecube.evolve.FitnessFunction;
 
 /**
  * @author Samuel Rowe
