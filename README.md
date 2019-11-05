@@ -1,2 +1,2 @@
-# OneCube Evolve
-OneCube Evolve is a simple genetic algorithm library written in Java. 
+# Helix
+Helix is a simple genetic algorithm library written in Java. 
